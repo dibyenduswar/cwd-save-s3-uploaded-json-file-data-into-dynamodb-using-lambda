@@ -1,0 +1,14 @@
+{
+  "name": "save-data-into-dynamodb-using-s3-file-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dibyendu S",
+  "license": "ISC",
+  "dependencies": {
+    "uniqid": "^5.4.0"
+  }
+}
